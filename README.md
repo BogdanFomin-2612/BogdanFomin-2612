@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Moje statystyki](https://github-readme-stats.vercel.app/api?username=bogdanfomin-2612&show_icons=true&theme=radical)
 <!--
 **BogdanFomin-2612/BogdanFomin-2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
