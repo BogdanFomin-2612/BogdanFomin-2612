@@ -1,6 +1,6 @@
 # Hi there, I'm Bogdan! 👋
 
-### 🚀 Junior Frontend Developer
+# 🚀 Junior Frontend Developer
 I focus on building clean, user-friendly, and performant web interfaces. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 - 🏗️ Currently working on: **Portfolio Website**
@@ -8,7 +8,7 @@ I focus on building clean, user-friendly, and performant web interfaces. I love 
 - 💬 Ask me about: **HTML, CSS, JavaScript**
 - ⚡ Fun fact: **I can debug code in my head while drinking coffee**
 
-### 🛠️ My Tools
+# 🛠️ My Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
