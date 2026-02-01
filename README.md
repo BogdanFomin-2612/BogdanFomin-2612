@@ -1,5 +1,41 @@
 # Hi there 👋
 
+
+# Hi there, I'm Bogdan! 👋
+
+### 🚀 Junior Frontend Developer
+I focus on building clean, user-friendly, and performant web interfaces. I love turning complex problems into simple, beautiful, and intuitive designs.
+
+- 🏗️ Currently working on: **Portfolio Website**
+- 🌱 Learning: **JavaScript**
+- 💬 Ask me about: **HTML, CSS, JavaScript, React**
+- ⚡ Fun fact: **I can debug code in my head while drinking coffee**
+
+---
+
+### 🛠️ My Stack & Tools
+
+**Languages & Core:**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Tools:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+### 📈 Find me at:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](ТВОЯ_ССЫЛКА)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](ТВОЯ_ССЫЛКА)
+
+
+
+
+
+
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mike_f0b0s) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mike_f0b0s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bogdan-fomin-1a8361341/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rabotajnegr24.7@gmail.com) 
 
