@@ -5,7 +5,7 @@ I focus on building clean, user-friendly, and performant web interfaces. I love 
 
 - 🏗️ Currently working on: **Portfolio Website**
 - 🌱 Learning: **JavaScript**
-- 💬 Ask me about: **HTML, CSS, JavaScript, React**
+- 💬 Ask me about: **HTML, CSS, JavaScript**
 - ⚡ Fun fact: **I can debug code in my head while drinking coffee**
 
 ---
