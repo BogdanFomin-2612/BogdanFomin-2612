@@ -4,8 +4,7 @@
 I focus on building clean, user-friendly, and performant web interfaces. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 - 🏗️ Currently working on: **Portfolio Website** https://bogdanfomin-2612.github.io/NorthLoop/
-- 🌱 Learning: **JavaScript**
-- 💬 Ask me about: **HTML, CSS, JavaScript**
+- 🌱 Learning: **Python**
 - ⚡ Fun fact: **I can debug code in my head while drinking coffee**
 
 # 🛠️ My Tools
