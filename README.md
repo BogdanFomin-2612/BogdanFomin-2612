@@ -11,7 +11,7 @@ I'm learning to build and train neural networks with **PyTorch** and **TensorFlo
 
 - 🧠 **Cats vs Dogs classifier** — CNN image classifier in PyTorch, trained on GPU *(in progress)*
 - 📚 **Keras with TensorFlow** — working through the deeplizard course, practising in Google Colab
-- 📊 **Bank statement analyzer** — Python tool that parses Monobank statements (CSV / XLS / PDF), groups spending by category and forecasts next month with a trend line *(university project)*
+- 📊 **Bank statement analyzer** — Python tool that parses Monobank statements (CSV / XLS / PDF), groups spending by category and forecasts next month with a trend line *(university project)* **done**
 
 ## 🚀 Featured projects
 
