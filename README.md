@@ -16,8 +16,8 @@ I'm learning to build and train neural networks with **PyTorch** and **TensorFlo
 
 | Project | What it does | Tech |
 |---|---|---|
-| [Hair Salon Gdańsk](https://github.com/BogdanFomin-2612/HairSalonGdanskPage) | Multi-page website for a real local hair salon, with photo gallery and lightbox | HTML · CSS · JavaScript |
-| [WeekendTrip Demon](LINK_TO_REPO) | Telegram bot that finds cheap weekend trips abroad — flights + hotels via travel APIs | Python · Telegram Bot API |
+| [Exam Killer](https://github.com/BogdanFomin-2612/exam-killer) | Turn any PDF into an interactive quiz with AI | Python · Streamlit · Gemini API |
+| [Monobank Analyzer](https://github.com/BogdanFomin-2612/python-project_-_bank-account-statement) | Bank statement parser with spending analytics | Python · NumPy · Matplotlib |
 | [NorthLoop](https://bogdanfomin-2612.github.io/NorthLoop/) | My personal website | HTML · CSS · JavaScript |
 
 ## 🛠️ Tech stack
